@@ -1,0 +1,18 @@
+{
+  "name": "calculadora-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron main.js"
+  },
+  "author": "Gustavo Herrera",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.3.0"
+  },
+  "dependencies": {
+    "electron-reload": "^1.5.0"
+  }
+}
